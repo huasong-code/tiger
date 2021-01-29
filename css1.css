@@ -1,0 +1,68 @@
+#fdiv{
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+  padding: 0px;
+  background-clip:content-box;
+  border-style: solid;
+  border-width: 5px;
+  border-color: coral;
+}
+#head{
+width: 50px;
+height: 50px;
+padding-left: 75px;
+padding-right: 75px;
+}
+#fp{
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 0;
+}
+#sdiv{
+  display: flex;
+  margin: 0px auto;
+  width: 270px;
+  height: 110px;
+  padding: 0px;
+  background-clip:content-box;
+  border-style: groove;
+  border-width: 5px;
+}
+.lucky{
+  margin-top: 0px;
+  margin: 5px;
+  width: 75px;
+  height: 100px;
+  border-style: dotted;
+}
+#tdiv{
+  margin: 0px auto;
+  width: 270px;
+  height: 20px;
+  padding: 0px;
+  background-clip:content-box;
+  border-style: groove;
+  border-width: 5px;
+}
+#mybutton{
+  margin-left: 100px;
+}
+#foot{
+  margin: 0px auto;
+  width: 270px;
+  height: 110px;
+  padding: 0px;
+  background-clip:content-box;
+  border-style: groove;
+  border-width: 5px;
+}
+#mp{
+  margin-left: 85px;
+  margin-right: 50px;
+}
+.lucky>img{
+  margin: 0!important;
+  width: 75px;
+  height: 100px;
+}
